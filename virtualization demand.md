@@ -24,3 +24,12 @@
 
 - 需求
   - 只是白皮书，没啥说明需求
+
+##### A Dynamic Binary Instrumentation Engine for the ARM Architecture
+
+- 可能的应用
+  - Software Introspection
+  - Architecture and Compiler Design
+  - Architectural Compatibility
+  - Instrumentation System Design
+  - 没啥好的应用
