@@ -78,3 +78,7 @@
   - best-effort VCPUs (BE-VCPUs)
   - real-time VCPUs (RTVCPUs)
 
+
+##### A Survey of Mobile Device Virtualization: Taxonomy and State of the Art
+
+- 还是异构OS
