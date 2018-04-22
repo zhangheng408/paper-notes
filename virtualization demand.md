@@ -82,3 +82,39 @@
 ##### A Survey of Mobile Device Virtualization: Taxonomy and State of the Art
 
 - 还是异构OS
+
+##### A Survey of Virtual Machine System: Current Technology and Future Trends
+
+-  performance isolation
+- server consolidation
+- live migration 
+
+##### Virtualization: Issues, Security Threats, and Solutions
+
+- Motivations
+  - consolidation of physical servers
+  - isolation of guest OSs
+  - software debugging
+
+##### Cloud computing — The business perspective
+
+- 云计算的好处
+  - 计算成本低
+  - 快速接入
+  - 动态伸缩
+- 关键技术
+  - 虚拟化
+
+##### Cloud computing: state-of-the-art and research challenges
+
+- 好处
+  - 低投入，低运维
+  - 轻松访问
+  - Reducing business risks and maintenance expenses
+- 历史/定义
+
+##### A Taxonomy and Survey of Cloud Computing Systems
+
+- 差不多，没啥新意
+
+	
